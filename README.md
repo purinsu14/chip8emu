@@ -19,6 +19,12 @@ Example:
 ```
 chip8 IBM Logo.ch8 7
 ```
+## Install with binary (no Rust needed)
+Download the binary, open terminal on download path, then:
+```
+./chip8 <rom> [cycles]
+```
+
 Additional note:
 `cycles` controls emulation speed (default: 10). Adjust per ROM if too fast or slow.
 
