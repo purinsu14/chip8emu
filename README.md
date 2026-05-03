@@ -8,7 +8,7 @@ Pre-built binary for Linux available on the [releases page](https://github.com/p
 
 Extract the source code, then:
 ```
-cargo install --path
+cargo install --path .
 chip8 <rom> [cycles]
 ```
 or
