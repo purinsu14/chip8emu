@@ -1,6 +1,8 @@
-### CHIP8 in Rust
+## CHIP8 in Rust
 
 A CHIP-8 emulator written in Rust.
+
+Pre-built binary for Linux available on the [releases page](https://github.com/purinsu14/chip8emu/releases).
 
 ## Install
 
