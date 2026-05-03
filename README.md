@@ -31,3 +31,6 @@ Z X C V  →  A 0 B F
 
 ## ROMs
 Compatible ROMs can be found at https://github.com/kripod/chip8-roms
+
+---
+*Made by [purinsu14](https://github.com/purinsu14)*
