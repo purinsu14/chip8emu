@@ -4,7 +4,7 @@ A CHIP-8 emulator written in Rust.
 
 Pre-built binary for Linux available on the [releases page](https://github.com/purinsu14/chip8emu/releases).
 
-## Install (with Rust)
+## Install and run (with Rust)
 
 Extract the source code, then:
 ```
@@ -15,14 +15,12 @@ or
 ```
 cargo run -- <rom> [cycles]
 ```
-Example:
-```
-chip8 IBM Logo.ch8 7
-```
+
 ## Install with binary (no Rust needed)
 Download the binary, open terminal on download path, then:
 ```
-./chip8 <rom> [cycles]
+chmod +x <filename>
+./<filename> <rom> [cycles]
 ```
 
 Additional note:
@@ -38,7 +36,7 @@ Z X C V  →  A 0 B F
 ```
 
 ## ROMs
-Compatible ROMs can be found at https://github.com/kripod/chip8-roms
+Compatible ROMs can be found [here](https://github.com/kripod/chip8-roms).
 
 ---
 *Made by [purinsu14](https://github.com/purinsu14)*
